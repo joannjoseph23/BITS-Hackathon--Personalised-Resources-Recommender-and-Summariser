@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar nav a {
+    margin: 0 0.5rem;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .btn {
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    background: none;
+    cursor: pointer;
+  }
+  
+  .btn-dark {
+    background: #333;
+    color: white;
+  }
+  
+  .upload-section {
+    text-align: center;
+    margin-top: 4rem;
+  }
+  
+  .upload-section h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .upload-section button {
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+  }
+  
+  #extractedText {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: #fff;
+    border: 1px solid #ddd;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: pre-wrap;
+  }
+  

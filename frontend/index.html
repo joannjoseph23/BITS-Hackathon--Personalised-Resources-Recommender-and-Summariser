@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>StudyBuddy - Upload</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Navbar -->
+  <header class="navbar">
+    <div class="logo">StudyBuddy</div>
+    <nav>
+      <a href="#">Products</a>
+      <a href="#">Solutions</a>
+      <a href="#">Community</a>
+      <a href="#">Resources</a>
+      <a href="#">Pricing</a>
+      <a href="#">Contact</a>
+      <a href="#">Link</a>
+      <button class="btn">Sign in</button>
+      <button class="btn btn-dark">Register</button>
+    </nav>
+  </header>
+
+  <!-- Upload Section -->
+  <section class="upload-section">
+    <h1>Upload Material</h1>
+    <input type="file" id="fileUpload" accept=".pdf, .pptx" />
+    <button onclick="handleUpload()">Upload a PDF/PPT</button>
+    <div id="extractedText"></div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>

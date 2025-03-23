@@ -1,0 +1,36 @@
+📘 **Learning Resources for Incorrect Answers** 📘
+
+❌ **Question:** Q4: How can you define a remote named "upstream" in your local repository?
+A) By using the command git remote set-url upstream [URL]  
+B) By using the command git remote add upstream [URL]  
+C) By using the command git add upstream [URL]  
+D) By using the command git fetch upstream [URL]  
+
+
+✅ **Correct Answer:** B
+
+📄 **Research Papers:**
+- [Keeping Yourself is Important in Downstream Tuning ...](https://arxiv.org/html/2503.04543v1)
+- [A Roadmap for Coordinated Landscape-scale Coastal and ...](https://www.researchgate.net/profile/Assoc-Prof-Nathan-Waltham/publication/363254874_A_Roadmap_for_Coordinated_Landscape-scale_Coastal_and_Marine_Ecosystem_Restoration_Project_16_A_roadmap_for_coordinated_landscape-scale_coastal_and_marine_ecosystem_restoration/links/6313632f61e4553b95611716/A-Roadmap-for-Coordinated-Landscape-scale-Coastal-and-Marine-Ecosystem-Restoration-Project-16-A-roadmap-for-coordinated-landscape-scale-coastal-and-marine-ecosystem-restoration.pdf)
+- [Multi Year Program Plan 2008-2012 - eere.energy.gov](https://www.researchgate.net/publication/258379082_Achievements_and_Challenges_of_CdSCdTe_Solar_Cells/fulltext/55ee143708ae199d47bed7e0/Achievements-and-Challenges-of-CdS-CdTe-Solar-Cells.pdf)
+- [3502 questions with answers in DATASET | Science topic](https://www.researchgate.net/topic/Dataset/4)
+- [Enhancing Localization, Selection, and Processing of Data in ...](https://www.researchgate.net/profile/Bastian-Havers/publication/379732816_PhD_Thesis_Enhancing_Localization_Selection_and_Processing_of_Data_in_Vehicular_Cyber-Physical_Systems/links/6617c57266ba7e2359bd1e5d/PhD-Thesis-Enhancing-Localization-Selection-and-Processing-of-Data-in-Vehicular-Cyber-Physical-Systems.pdf)
+
+📺 **YouTube Videos:**
+- [&quot;Jenkins Pipeline Mastery: Parameters, Views, Upstream &amp; Downstream Jobs Explained!&quot;](https://www.youtube.com/watch?v=FEkvv6QrcJk)
+- [Triangles | Class 9th SSC Maths | TUTORATTI](https://www.youtube.com/watch?v=e1-TfLxwuvI)
+
+❌ **Question:** Q5: In Git, what is meant by "staging changes" before a commit?
+A) Preparing to delete files from the repository  
+B) Organizing changes into a separate branch  
+C) Marking changes to be included in the next commit  
+D) Reverting changes back to their previous state
+✅ **Correct Answer:** C
+
+📄 **Research Papers:** No relevant papers found.
+
+📺 **YouTube Videos:**
+- [[Git]2. git commit, git area](https://www.youtube.com/watch?v=uZdJm01b1mo)
+- [Deloitte Automation Testing Interview Experience | Real Time Interview Questions and Answers](https://www.youtube.com/watch?v=Dp8LLKx_9Ps)
+- [Top 30 DevOps Interview Questions &amp; Answers That’ll Land You a Job! | DevOps Interview | Intellipaat](https://www.youtube.com/watch?v=ZZSInbb3n5U)
+
