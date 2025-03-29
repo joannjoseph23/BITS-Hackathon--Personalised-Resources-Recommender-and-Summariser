@@ -22,7 +22,7 @@ client = openai.OpenAI(
 # Function to get PDF text
 pdf_text = get_texts()  # Get text data
 
-def generate_questions(text, num_questions=5):
+def generate_questions(text, num_questions=10):
     """
     Generates MCQ questions from the given text.
     """
